@@ -6,7 +6,7 @@ Although I love working in a familiar environment, I'm always open to try out ne
 
 - 🔭 I’m currently working on a personal web aplication.
 - 🌱 I’m currently learning ExpressJS.
-- 👯 I’m looking to collaborate on building website/ webaplication for clients.
+- 👯 I’m looking to collaborate on building website/ web aplication for clients.
 - 📫 Email me at: andreipanait392@gmail.com
 - 🔗 My [LinkedIn](https://www.linkedin.com/in/andrei-p-035336203/) profile.
 
