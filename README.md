@@ -5,7 +5,7 @@ I am also a student at Ovidius University of Constanta taking computer science c
 Although I love working in a familiar environment, I'm always open to try out new technologies and want to continue learning and improving my skills.<br>
 
 - 🔭 I’m currently working on a personal web aplication.
-- 🌱 I’m currently learning ExpressJS.
+- 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on building websites/ web aplications for clients.
 - 📫 Email me at: andreipanait392@gmail.com
 - 🔗 My [LinkedIn](https://www.linkedin.com/in/andrei-p-035336203/) profile.
