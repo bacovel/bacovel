@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrei 👋
 
-I am a 20 years old Junior Web Developer from Romania.<br>
+I am a 21 years old Junior Web Developer from Romania.<br>
 I am also a student at Ovidius University of Constanta taking computer science classes.<br>
 Although I love working in a familiar environment, I'm always open to try out new technologies and want to continue learning and improving my skills.<br>
 
